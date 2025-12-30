@@ -136,7 +136,7 @@ import streamlit as st
 
 次に、すべての認証情報を保存するために、プロジェクトフォルダーに`.env`ファイルを作成します。プロジェクト構成は以下のようになります：
 
-![Project structure](https://github.com/luminati-io/rag-chatbot/blob/main/Images/image-19.png)
+![Project structure](https://github.com/bright-jp/rag-chatbot/blob/main/Images/image-19.png)
 
 `app.py`で以下の関数を使用し、`python-dotenv`に`.env`から環境変数を読み込むよう指示します：
 
@@ -158,17 +158,17 @@ SERP APIのセットアップについては、[official documentation](https://
 
 まだアカウントを作成していない場合は、[sign up for Bright Data](https://brightdata.jp)してください。ログイン後、アカウントのダッシュボードに移動します：
 
-![Account main dashboard](https://github.com/luminati-io/rag-chatbot/blob/main/Images/image-18.png)
+![Account main dashboard](https://github.com/bright-jp/rag-chatbot/blob/main/Images/image-18.png)
 
 そこで「Get proxy products」ボタンをクリックします。
 
 すると以下のページに移動するので、「SERP API」行をクリックします：
 
-![Clicking on SERP API](https://github.com/luminati-io/rag-chatbot/blob/main/Images/image-17.png)
+![Clicking on SERP API](https://github.com/bright-jp/rag-chatbot/blob/main/Images/image-17.png)
 
 SERP APIのプロダクトページで、「Activate zone」を切り替えてプロダクトを有効化します：
 
-![Activating the SERP zone](https://github.com/luminati-io/rag-chatbot/blob/main/Images/image-16.png)
+![Activating the SERP zone](https://github.com/bright-jp/rag-chatbot/blob/main/Images/image-16.png)
 
 次に、「Access parameters」セクションにあるSERP APIのhost、port、username、passwordをコピーし、`.env`ファイルに追加します：
 
@@ -413,7 +413,7 @@ return extracted_text_list
 
 たとえば、以下の[Webページ](https://athomeinhollywood.com/2024/09/19/transformers-one-review/)を考えてみてください：
 
-![Transformers one review page](https://github.com/luminati-io/rag-chatbot/blob/main/Images/image-15.png)
+![Transformers one review page](https://github.com/bright-jp/rag-chatbot/blob/main/Images/image-15.png)
 
 この関数をそのページに適用すると、次のテキスト配列になります：
 
@@ -795,7 +795,7 @@ Network URL: http://172.27.134.248:8501
 
 指示に従い、ブラウザで`http://localhost:8501`にアクセスしてください。以下のような画面が表示されるはずです：
 
-![Streamlit app screenshot](https://github.com/luminati-io/rag-chatbot/blob/main/Images/image-14.png)
+![Streamlit app screenshot](https://github.com/bright-jp/rag-chatbot/blob/main/Images/image-14.png)
 
 次のようなGoogle検索クエリを使用してアプリケーションをテストします：
 
@@ -811,7 +811,7 @@ Write a review for the movie Transformers One
 
 「Send」をクリックし、アプリケーションがリクエストを処理するのを待ちます。数秒後、以下のような結果が得られるはずです：
 
-![App result screenshot](https://github.com/luminati-io/rag-chatbot/blob/main/Images/image-13.png)
+![App result screenshot](https://github.com/bright-jp/rag-chatbot/blob/main/Images/image-13.png)
 
 「AI Final Prompt」ドロップダウンを展開すると、アプリケーションがRAGに使用した完全なプロンプトを確認できます。
 
